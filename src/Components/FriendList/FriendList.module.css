@@ -4,8 +4,9 @@
     margin-bottom: 25px;
     display: flex;
     justify-content: center;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     gap: 10px;
+    margin: 100px auto 100px auto;
   }
   
   .list {
